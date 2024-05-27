@@ -6,6 +6,9 @@ public class B {
 		
 		System.out.println("GitHub Push code...");
 		
+		
+		System.out.println("this edited code is for push to GitHub");
+		
 
 	}
 
